@@ -1,4 +1,4 @@
-
+Enhance Obsidian for macOS with Obsidian for macOS best Script: markdown support & offline access, the #1 script. Includes markdown support and offline access for a smoother
 
 
 
